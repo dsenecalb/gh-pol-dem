@@ -1,2 +1,2 @@
 Hello World
-This is an update for the template
+This is an deletion-word for the template
