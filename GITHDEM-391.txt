@@ -1,5 +1,5 @@
 /**
-* @wi.implements githubDemo/GITHDEM-391 this is a comment
+* @wi.implements githubDemo/GITHDEM-391: this is a comment
 */
 
 Hello World
